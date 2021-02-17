@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Harkka7_1</string>
+    <string name="button">Button</string>
+    <string name="hint">Write something</string>
+</resources>
